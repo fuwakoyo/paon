@@ -17,7 +17,8 @@
       "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/index.js\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
       "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/package.json\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
       "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/package-lock.json\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
-      "Bash(cp -r \"c:/Users/koyo.saito/個人/zoosan/assets\" \"c:/Users/koyo.saito/個人/ぞうさん/\")"
+      "Bash(cp -r \"c:/Users/koyo.saito/個人/zoosan/assets\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
+      "Bash(npm install:*)"
     ]
   }
 }
