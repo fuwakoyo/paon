@@ -21,7 +21,9 @@
       "Bash(npm install:*)",
       "Bash(npx expo:*)",
       "Bash(ipconfig)",
-      "Bash(netsh advfirewall:*)"
+      "Bash(netsh advfirewall:*)",
+      "Bash(npm show:*)",
+      "Bash(node -e \"const d=require\\(''''fs''''\\).readFileSync\\(''''/dev/stdin'''',''''utf8''''\\);const v=JSON.parse\\(d\\);console.log\\(v.filter\\(x=>x.startsWith\\(''''18''''\\)\\).join\\(''''\\\\n''''\\)\\)\")"
     ]
   }
 }
