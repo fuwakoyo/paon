@@ -3,7 +3,7 @@ import { StyleSheet, Text, TouchableOpacity, View, ScrollView } from 'react-nati
 
 export default function App() {
   const [count, setCount] = useState(1);
-
+  //test
   return (
     <View style={styles.container}>
       <Text style={styles.title}>ぞうさん</Text>
