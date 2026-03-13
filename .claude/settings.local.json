@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(gh auth:*)",
+      "Bash(ssh-keygen -t ed25519 -C \"fuwakoyo@gmail.com\" -f ~/.ssh/id_ed25519_personal -N \"\")",
+      "Bash(ssh -T git@github-personal)",
+      "Bash(npm -v)",
+      "Bash(npx create-expo-app@latest . --template blank)",
+      "Bash(npx create-expo-app@latest . --template blank --name zoosan)",
+      "Read(//c/Users/koyo.saito/個人/**)",
+      "Bash(npx create-expo-app@latest zoosan --template blank)",
+      "Bash(cp -r \"c:/Users/koyo.saito/個人/zoosan/.\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
+      "Bash(rm -rf \"c:/Users/koyo.saito/個人/zoosan\")",
+      "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/App.js\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
+      "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/app.json\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
+      "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/index.js\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
+      "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/package.json\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
+      "Bash(cp \"c:/Users/koyo.saito/個人/zoosan/package-lock.json\" \"c:/Users/koyo.saito/個人/ぞうさん/\")",
+      "Bash(cp -r \"c:/Users/koyo.saito/個人/zoosan/assets\" \"c:/Users/koyo.saito/個人/ぞうさん/\")"
+    ]
+  }
+}
